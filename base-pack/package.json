@@ -27,6 +27,9 @@
     "elagil.pre-commit-helper",
     "oderwat.indent-rainbow",
     "donjayamanne.githistory",
-    "christian-kohler.path-intellisense"
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker-russian"
   ]
 }
